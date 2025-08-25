@@ -20,7 +20,7 @@ public class AppLauncher {
         HelloWorld student2 = new HelloWorld();
 
         student1.introduce();
-        student1.greet();
+        student1.greet("Jason");
         student2.introduce();
         student2.greet();
 }
